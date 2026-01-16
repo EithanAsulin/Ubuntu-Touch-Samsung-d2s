@@ -6,6 +6,7 @@
 # IMPORTANT
 > ------------------------------------------------------------------------------------------------------------------------------------
 If Anything Goes Unexpected And Causes a Brick I Am Not In Fault This Was Tested And Used On The N975F With Mostly Working Features.
+
 !!! DO NOT EXPECT UPDATES THIS IS NOT AN OFFICIAL PORT !!! 
 > ------------------------------------------------------------------------------------------------------------------------------------
 
