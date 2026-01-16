@@ -15,15 +15,12 @@ This Is The Finished Result Of Compiling The Exynos 9825 Ubuntu Touch Build.
 # Installation :
 # Pre Installation
 1. Get Fastboot
-|----> sudo apt update && sudo apt install fastboot
-
-2.
-|----> Download The Zip From The Releases And Extract
-
-3. 
-|----> Right Click
-|----> Open Terminal Here
-
+> sudo apt update && sudo apt install fastboot
+2. Download Files
+> Releases > Ubuntu_Touch_d2s.zip > Extract
+3. Terminal
+> In The Extracted Folder Open a Terminal
+ 
 # 1. Downloads Mode
 |----> sudo ./odin4 -a TWRP.tar
 (This TWRP Is The EternityROM One UI 7 For Improved Stability)
