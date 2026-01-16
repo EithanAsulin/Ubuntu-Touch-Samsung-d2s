@@ -45,8 +45,7 @@ This Is The Finished Result Of Compiling The Exynos 9825 Ubuntu Touch Build.
 # 4. Reboot
 > Enjoy You've Succesfully Booted Into Ubuntu Touch 16.04 Xenial
 
-
-# ---------------------------------------------
+> ------------------------------------------------------------------------------------------------------------------------------------
 
 
 # OS Info :
