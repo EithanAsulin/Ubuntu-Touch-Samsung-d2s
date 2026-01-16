@@ -27,15 +27,19 @@ This Is The Finished Result Of Compiling The Exynos 9825 Ubuntu Touch Build.
  
 # 1. Downloads Mode
 > sudo ./odin4 -a TWRP.tar
+
 > (This TWRP Is The EternityROM One UI 7 For Improved Stability)
 
 # 2. Enter TWRP (Volume Up + Power 7 Seconds)
 > Wipe > Format Data > "yes"
+
 > Reboot > Fastboot (Also Known As Fastbootd)
 
 # 3. Fastboot Flash (sudo apt install fastboot)
 > fastboot flash boot boot.img
+
 > fastboot flash system system.img
+
 > fastboot flash vendor vendor.img
 
 # 4. Reboot
@@ -47,11 +51,17 @@ This Is The Finished Result Of Compiling The Exynos 9825 Ubuntu Touch Build.
 
 # OS Info :
 > OS : Ubuntu Touch
+
 > Version : 16.04
+
 > Codename : Xenial
+
 > Snapd : No
+
 > Stable : Yes
+
 > Usable : Partial (App Support)
+
 
 
 # Bug Fixes :
