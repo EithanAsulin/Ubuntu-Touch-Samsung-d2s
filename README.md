@@ -12,6 +12,7 @@ If Anything Goes Unexpected And Causes a Brick I Am Not In Fault This Was Tested
 
 Hello!
 This Is The Finished Result Of Compiling The Exynos 9825 Ubuntu Touch Build.
+
 (Source : https://gitlab.com/ubports/porting/community-ports/android11/samsung-galaxy-note-10-plus/samsung-exynos9825)
 
 # Installation :
